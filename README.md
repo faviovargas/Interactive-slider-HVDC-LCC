@@ -2,7 +2,9 @@
 
 Simulador interactivo de operación de un enlace HVDC con convertidores conmutados por línea (LCC).
 
-**Demo:** https://faviovargas.github.io/Interactive-slider-HVDC-LCC/
+### ▶ [Abrir el simulador](https://faviovargas.github.io/Interactive-slider-HVDC-LCC/)
+
+[![Simulador HVDC LCC](docs/captura.png)](https://faviovargas.github.io/Interactive-slider-HVDC-LCC/)
 
 - Característica V–I del rectificador y el inversor (α<sub>min</sub>, γ<sub>0</sub>, margen de corriente)
 - Esquema del enlace con valores en vivo
